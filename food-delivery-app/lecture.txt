@@ -1,0 +1,29 @@
+/**
+ 
+ * food-delivery-app/
+│
+├── models/
+│   ├── userModel.js
+│   ├── restaurantModel.js
+│   └── orderModel.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   ├── restaurantRoutes.js
+│   └── orderRoutes.js
+│
+├── controllers/
+│   ├── authController.js
+│   ├── restaurantController.js
+│   └── orderController.js
+│
+├── config/
+│   └── config.js
+│
+├── middleware/
+│   └── authMiddleware.js
+│
+├── app.js
+└── package.json
+
+ */
